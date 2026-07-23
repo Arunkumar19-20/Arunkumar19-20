@@ -118,18 +118,30 @@
 
 <div align="center">
 
-![Currently Learning](https://img.shields.io/badge/Currently%20Learning-Spring%20Boot%20%26%20React-a78bfa?style=for-the-badge&logo=spring&logoColor=white)
-![Exploring](https://img.shields.io/badge/Exploring-Machine%20Learning-22d3ee?style=for-the-badge&logo=python&logoColor=white)
-![Building](https://img.shields.io/badge/Building-Full%20Stack%20Projects-fbbf24?style=for-the-badge&logo=github&logoColor=black)
-![Open To](https://img.shields.io/badge/Open%20To-Collaborations-4ade80?style=for-the-badge&logo=handshake&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:302B63,100:24243E&height=3&width=100%" width="100%"/>
 
-</div>
+<br/>
 
-<div align="center">
+![Learning](https://img.shields.io/badge/🌱%20Learning-Spring%20Boot-6DB33F?style=for-the-badge&logoColor=white)
+![Learning](https://img.shields.io/badge/🌱%20Learning-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Exploring](https://img.shields.io/badge/🤖%20Exploring-Machine%20Learning-F7931E?style=for-the-badge&logo=python&logoColor=white)
+![Building](https://img.shields.io/badge/🔨%20Building-Full%20Stack%20Apps-a78bfa?style=for-the-badge&logo=github&logoColor=white)
+![Open To](https://img.shields.io/badge/🤝%20Open%20To-Collaborations-4ade80?style=for-the-badge&logoColor=white)
+![Status](https://img.shields.io/badge/💼%20Status-Available%20for%20Projects-22d3ee?style=for-the-badge&logoColor=white)
 
-| 🔭 Working On | 🌱 Learning | 💬 Ask Me About | ⚡ Fun Fact |
-|:---:|:---:|:---:|:---:|
-| Full Stack Web Apps | Spring Boot + ML | Java, React, HTML/CSS | I debug with `print()` 😄 |
+<br/><br/>
+
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║                     🚀  CURRENT ROADMAP                          ║
+╠═══════════════════════╦═══════════════════════╦═══════════════════╣
+║  🔭 Working On        ║  📚 Learning Now      ║  🎯 Next Goal     ║
+╠═══════════════════════╬═══════════════════════╬═══════════════════╣
+║  Full Stack Web Apps  ║  Java & Spring Boot   ║  Deploy on Cloud  ║
+║  Java Backend APIs    ║  React Hooks & State  ║  Contribute OS    ║
+║  ML Fundamentals      ║  ML with scikit-learn ║  Build Portfolio  ║
+╚═══════════════════════╩═══════════════════════╩═══════════════════╝
+```
 
 </div>
 
