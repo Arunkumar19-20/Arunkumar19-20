@@ -129,11 +129,9 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arunkumar19-20/Arunkumar19-20/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arunkumar19-20/Arunkumar19-20/output/github-contribution-grid-snake.svg"/>
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Arunkumar19-20/Arunkumar19-20/output/github-contribution-grid-snake.svg" width="100%"/>
   </picture>
 </div>
-
-> ⚙️ **To show YOUR snake:** Set up the `snk` GitHub Action in your `Arunkumar19-20` repo (see setup notes at the bottom of this file). Until then, a demo snake is displayed above.
 
 <!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
