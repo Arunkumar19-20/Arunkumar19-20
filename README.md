@@ -117,7 +117,9 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arunkumar19-20&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Arunkumar19-20&theme=onedark&column=-1&no-frame=true&no-bg=false&margin-w=10" alt="GitHub Trophies"/>
+  </a>
 </div>
 
 <!-- ANIMATED DIVIDER -->
