@@ -114,18 +114,23 @@
 <!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## 🏆 GitHub Achievements
+## 🎯 Current Focus
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arunkumar19-20&theme=tokyonight" width="100%"/>
+
+![Currently Learning](https://img.shields.io/badge/Currently%20Learning-Spring%20Boot%20%26%20React-a78bfa?style=for-the-badge&logo=spring&logoColor=white)
+![Exploring](https://img.shields.io/badge/Exploring-Machine%20Learning-22d3ee?style=for-the-badge&logo=python&logoColor=white)
+![Building](https://img.shields.io/badge/Building-Full%20Stack%20Projects-fbbf24?style=for-the-badge&logo=github&logoColor=black)
+![Open To](https://img.shields.io/badge/Open%20To-Collaborations-4ade80?style=for-the-badge&logo=handshake&logoColor=white)
+
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arunkumar19-20&theme=tokyonight" width="32%"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arunkumar19-20&theme=tokyonight" width="32%"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Arunkumar19-20&theme=tokyonight&utcOffset=5.5" width="32%"/>
+
+| 🔭 Working On | 🌱 Learning | 💬 Ask Me About | ⚡ Fun Fact |
+|:---:|:---:|:---:|:---:|
+| Full Stack Web Apps | Spring Boot + ML | Java, React, HTML/CSS | I debug with `print()` 😄 |
+
 </div>
 
 <!-- ANIMATED DIVIDER -->
