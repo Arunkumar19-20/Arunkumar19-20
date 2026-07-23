@@ -114,10 +114,14 @@
 <!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arunkumar19-20&theme=tokyonight&column=7&margin-w=5" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arunkumar19-20&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=22d3ee&text_color=c9d1d9&border_radius=10" alt="Achievements"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Arunkumar19-20&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_radius=10&layout=compact" alt="WakaTime Stats"/>
 </div>
 
 <!-- ANIMATED DIVIDER -->
