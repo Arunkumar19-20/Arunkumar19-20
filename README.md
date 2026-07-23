@@ -114,14 +114,18 @@
 <!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## 🏆 Achievements
+## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arunkumar19-20&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=22d3ee&text_color=c9d1d9&border_radius=10" alt="Achievements"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arunkumar19-20&theme=tokyonight" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Arunkumar19-20&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_radius=10&layout=compact" alt="WakaTime Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arunkumar19-20&theme=tokyonight" width="32%"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arunkumar19-20&theme=tokyonight" width="32%"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Arunkumar19-20&theme=tokyonight&utcOffset=5.5" width="32%"/>
 </div>
 
 <!-- ANIMATED DIVIDER -->
