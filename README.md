@@ -1,129 +1,283 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=220&section=header&text=Hi%20There%2C%20Im%20Arun%20Kumar%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%26%20React%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<!-- ══════════════════════════════════════════════════════════════
+     ANIMATED HEADER — CAPSULE RENDER (waving gradient banner)
+     ══════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=240&section=header&text=Arun%20Kumar&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20React&descAlignY=58&descSize=20&descColor=a78bfa" width="100%"/>
 
+<!-- ══════════════════════════════════════
+     ANIMATED TYPING SVG
+     ══════════════════════════════════════ -->
 <a href="https://github.com/Arunkumar19-20">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Web+Developer;Java+%7C+Spring+Boot+%7C+React;Exploring+Machine+Learning+Basics;Turning+Ideas+Into+Code;Always+Learning,+Always+Building;Welcome+to+my+GitHub!&font=Fira+Code&center=true&width=600&height=50&color=22D3EE&vCenter=true&size=24&pause=1500"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Hey+there!+I%27m+Arun+Kumar+%F0%9F%91%8B;Full+Stack+Developer+in+the+Making+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+React.js+%E2%9A%A1;Turning+Ideas+Into+Real+Products+%F0%9F%92%A1;ML+Explorer+%7C+Always+Learning+%F0%9F%A4%96;Open+Source+Enthusiast+%F0%9F%8C%9F" alt="Typing SVG" />
 </a>
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Arunkumar19-20&color=a78bfa&style=flat-square&label=Profile+Views)](https://github.com/Arunkumar19-20)
+[![GitHub followers](https://img.shields.io/github/followers/Arunkumar19-20?label=Followers&style=flat-square&color=22d3ee&labelColor=0f0c29)](https://github.com/Arunkumar19-20?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/Arunkumar19-20?label=Total%20Stars&style=flat-square&color=fbbf24&labelColor=0f0c29)](https://github.com/Arunkumar19-20)
 
 </div>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:6366F1&height=3&width=100%25" width="100%">
+<!-- ══════════════════════════════════════
+     ABOUT ME
+     ══════════════════════════════════════ -->
 
-## 🚀 About Me
+<img align="right" alt="Coding GIF" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+## ⚡ About Me
 
 ```yaml
-name: Arun Kumar
-role: Full Stack Developer (in the making)
-focus: HTML | JavaScript | React | Java | Spring Boot
-currently_learning: Building end-to-end web applications + Machine Learning basics
-ml_level: "Beginner — exploring the fundamentals of ML"
-background: "Rathinam Tech — hands-on project based learning"
-fun_fact: "I debug with print statements and I'm not sorry 😄"
+╔══════════════════════════════════╗
+║         arun-kumar.config        ║
+╠══════════════════════════════════╣
+  name        : Arun Kumar
+  role        : Full Stack Developer
+  institute   : Rathinam Tech
+
+  focus:
+    - HTML / CSS / JavaScript
+    - React.js
+    - Java & Spring Boot
+    - Machine Learning (Basics)
+
+  status      : 🟢 Open to Collaborate
+  motto       : "Build. Break. Learn. Repeat."
+  fun_fact    : I debug with print() &
+                I'm not sorry about it 😄
+╚══════════════════════════════════╝
 ```
 
-- 🌱 I'm currently sharpening my skills in **Java, Spring Boot, and React.js**
-- 🤖 Also taking my first steps into **Machine Learning** — learning the basics and building foundational understanding
-- 💻 I love building small projects to understand concepts from the ground up
-- 🛠️ Comfortable across the stack — from HTML/CSS UI to Java backend APIs
-- 📚 Constantly experimenting with new frameworks and tools on GitHub
-- ⚡ Fun fact: every repo here started as "let me just try this real quick"
-- 📫 Reach me on GitHub — always open to collaborate on interesting projects!
+- 🌱 Sharpening skills in **Java**, **Spring Boot** & **React.js**
+- 🤖 Exploring **Machine Learning** fundamentals step by step
+- 🔨 Building real projects to learn concepts hands-on
+- 🌐 Comfortable from **HTML/CSS UI** → **Java backend APIs**
+- 📚 Always experimenting with new frameworks & tools
+- ⚡ Every repo started as _"let me just try this real quick..."_
+- 📫 Always open to collaborate — reach out anytime!
 
-<br/>
+<br clear="right"/>
 
-## 🛠️ Tech Stack
+---
+
+<!-- ══════════════════════════════════════
+     TECH STACK
+     ══════════════════════════════════════ -->
+
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
+### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### ⚙️ Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+### 🤖 Machine Learning
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### 🧰 DevTools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
-<br/>
+---
+
+<!-- ══════════════════════════════════════
+     SKILL PROGRESS TABLE
+     ══════════════════════════════════════ -->
+
+## 📈 Skill Progress
+
+<div align="center">
+
+| Technology | Level | Progress |
+|:---:|:---:|:---:|
+| HTML & CSS | ⭐⭐⭐⭐⭐ | `██████████████░` 92% |
+| Git & GitHub | ⭐⭐⭐⭐⭐ | `███████████████` 95% |
+| JavaScript / React | ⭐⭐⭐⭐ | `████████████░░░` 80% |
+| Java / Spring Boot | ⭐⭐⭐⭐ | `███████████░░░░` 72% |
+| Python / ML | ⭐⭐⭐ | `████████░░░░░░░` 55% |
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════
+     GITHUB STATS
+     ══════════════════════════════════════ -->
 
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Arunkumar19-20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arunkumar19-20&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arunkumar19-20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=a78bfa&icon_color=22d3ee&text_color=c9d1d9&border_radius=10"/>
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arunkumar19-20&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_radius=10"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arunkumar19-20&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arunkumar19-20&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=fbbf24&currStreakLabel=22d3ee&sideLabels=a78bfa&dates=c9d1d9&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arunkumar19-20&theme=tokyo-night&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arunkumar19-20&bg_color=0d1117&color=a78bfa&line=22d3ee&point=fbbf24&area=true&area_color=302B63&hide_border=true&border_radius=10" width="100%"/>
 </div>
 
-<br/>
+---
 
-## 🏆 Trophies
+<!-- ══════════════════════════════════════
+     TROPHIES
+     ══════════════════════════════════════ -->
+
+## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Arunkumar19-20&theme=tokyonight&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Arunkumar19-20&theme=tokyonight&no-frame=true&margin-w=12&margin-h=12&column=7" width="100%"/>
 </div>
 
-<br/>
+---
+
+<!-- ══════════════════════════════════════
+     CONTRIBUTION SNAKE — dark/light aware
+     ══════════════════════════════════════ -->
 
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Arunkumar19-20/Arunkumar19-20/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arunkumar19-20/Arunkumar19-20/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arunkumar19-20/Arunkumar19-20/output/github-contribution-grid-snake.svg"/>
+    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/Arunkumar19-20/Arunkumar19-20/output/github-contribution-grid-snake.svg" width="100%"/>
+  </picture>
 </div>
 
-> ⚙️ To activate the snake animation above, add the **`snk`** GitHub Action to a repo named exactly `Arunkumar19-20` (a special repo matching your username — GitHub renders its README on your profile). Instructions are in the note at the bottom of this file.
+---
 
-<br/>
+<!-- ══════════════════════════════════════
+     WEEKLY CODE BREAKDOWN
+     ══════════════════════════════════════ -->
 
-## 🤝 Connect With Me
+## ⏱️ Weekly Development Breakdown
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arunkumar19-20)
+```text
+💻  Approx. Code Time Breakdown (avg week)
+
+JavaScript   ████████████░░░░░░░   40%
+Java         ████████░░░░░░░░░░░   28%
+HTML / CSS   █████░░░░░░░░░░░░░░   18%
+Python       ███░░░░░░░░░░░░░░░░   10%
+Other        █░░░░░░░░░░░░░░░░░░    4%
+```
 
 </div>
 
-<br/>
+---
+
+<!-- ══════════════════════════════════════
+     DAILY DEV QUOTE
+     ══════════════════════════════════════ -->
+
+## 💬 Dev Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="90%"/>
+</div>
+
+---
+
+<!-- ══════════════════════════════════════
+     CONNECT
+     ══════════════════════════════════════ -->
+
+## 🤝 Let's Connect
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Arunkumar19-20&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub](https://img.shields.io/badge/GitHub-@Arunkumar19--20-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arunkumar19-20)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR-HANDLE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-a78bfa?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO.dev)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=120&section=footer" width="100%"/>
+---
+
+<!-- ══════════════════════════════════════
+     FOOTER WAVE
+     ══════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=140&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%98%8A&fontSize=24&fontColor=a78bfa&animation=twinkling&fontAlignY=65" width="100%"/>
+</div>
 
 <!--
-SETUP NOTES (delete this comment once done):
+════════════════════════════════════════════════════════════════════
+  SETUP CHECKLIST (delete this comment block after setup)
+════════════════════════════════════════════════════════════════════
 
-1. This README only turns into your animated PROFILE page if it lives in a
-   repository named EXACTLY your username: create a new repo called
-   "Arunkumar19-20" (public), and put this file there as README.md.
+  ✅ STEP 1 — SPECIAL PROFILE REPO
+     Create a PUBLIC repo named EXACTLY "Arunkumar19-20"
+     (must match your GitHub username). Put this file there
+     as README.md. GitHub auto-renders it on your profile page.
 
-2. Stats/streak/trophy images work automatically once the repo above exists —
-   they're generated live from your GitHub username, no setup needed.
+  ✅ STEP 2 — STATS / STREAK / TROPHIES
+     All live-generated from your username. No extra setup.
 
-3. To enable the animated snake contribution graph:
-   a. In the "Arunkumar19-20" repo, go to Actions > New workflow > set up a
-      workflow yourself, and paste the official snk action config
-      (search "Platane/snk" on GitHub for the exact YAML).
-   b. Run the workflow once — it will generate an "output" branch with the
-      snake SVG, which the image link above already points to.
+  ✅ STEP 3 — SNAKE ANIMATION
+     a. In your "Arunkumar19-20" repo → Actions → New Workflow
+     b. Name the file: snake.yml
+     c. Paste this YAML:
 
-4. Update the tech stack / about section as you learn new tools or add
-   bigger projects — this file is meant to grow with your GitHub.
+     name: Generate Snake
+     on:
+       schedule: [{cron: "0 0 * * *"}]
+       workflow_dispatch:
+     jobs:
+       generate:
+         runs-on: ubuntu-latest
+         steps:
+           - uses: Platane/snk@v3
+             with:
+               github_user_name: Arunkumar19-20
+               outputs: |
+                 dist/github-contribution-grid-snake.svg
+                 dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+           - uses: crazy-max/ghaction-github-pages@v3
+             with:
+               target_branch: output
+               build_dir: dist
+             env:
+               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+     d. Click "Run workflow" once to generate the SVGs.
+     e. The snake will appear on your "output" branch and
+        this README already points to it automatically!
+
+  ✅ STEP 4 — UPDATE SOCIAL LINKS
+     Search for these placeholders in the file and update:
+     - YOUR-LINKEDIN  → your LinkedIn profile slug
+     - YOUR-HANDLE    → your Twitter/X handle
+     - YOUR-PORTFOLIO → your portfolio website URL
+     (Or remove badges you don't need)
+
+  ✅ STEP 5 — DONE! 🎉
+     Push to main — your animated profile is live!
+════════════════════════════════════════════════════════════════════
 -->
