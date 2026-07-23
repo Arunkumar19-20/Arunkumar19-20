@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=220&section=header&text=Hi%20There,%20I'm%20Arun%20Kumar%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Java%20%26%20React%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=220&section=header&text=Hi%20There%2C%20Im%20Arun%20Kumar%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%26%20React%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/Arunkumar19-20">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Web+Developer;Java+%7C+Spring+Boot+%7C+React;Exploring+Machine+Learning+Basics;Turning+Ideas+Into+Code;Always+Learning,+Always+Building;Welcome+to+my+GitHub!&font=Fira+Code&center=true&width=600&height=50&color=22D3EE&vCenter=true&size=24&pause=1500"/>
@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:6366F1&height=3&width=100%25" width="100%">
 
 ## 🚀 About Me
 
