@@ -1,4 +1,4 @@
-**<!-- ANIMATED HEADER -->
+<!-- ANIMATED HEADER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Arun%20Kumar&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20React&descAlignY=58&descSize=22&descColor=a78bfa" width="100%"/>
 </div>
@@ -114,17 +114,50 @@
 <!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## 💻 Terminal — git log
+## 💻 Terminal — ls projects/
 
 <div align="center">
 
 <!-- Terminal window top bar -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1e1e2e&height=38&text=%E2%97%8F%20%E2%97%8F%20%E2%97%8F%20%20%20%20arun%40dev%20~%20terminal&fontColor=a6e3a1&fontSize=14&fontAlign=10&fontAlignY=55&desc=&animation=fadeIn" width="680"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1e1e2e&height=38&text=%E2%97%8F%20%E2%97%8F%20%E2%97%8F%20%20%20%20arun%40dev%20~%20projects&fontColor=a6e3a1&fontSize=14&fontAlign=10&fontAlignY=55&animation=fadeIn" width="680"/>
 
-<!-- Animated typing terminal -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2000&pause=800&color=00FF41&background=1E1E2E&center=false&vCenter=true&multiline=false&repeat=true&width=680&height=320&lines=%24+git+log+--oneline;a1b2c3+Learned+React+Hooks+%26+useState;d4e5f6+Built+first+Spring+Boot+REST+API;g7h8i9+Started+ML+with+scikit-learn;j0k1l2+Deployed+HTML%2FCSS+project+live;%24+ls+projects%2F;%3E+todo-app%2F++e-commerce-ui%2F++java-api%2F;%24+cat+goals.txt;%3E+%F0%9F%9A%80+Deploy+apps+on+AWS+%2F+Vercel;%3E+%F0%9F%A4%9D+Contribute+to+Open+Source;%3E+%F0%9F%8E%AF+Land+first+Developer+Role;%24+git+status;%3E+On+branch%3A+main+%7C+Always+learning...;%24+_%E2%96%88" alt="Animated Terminal"/>
+<!-- Animated typing terminal with real projects -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2200&pause=900&color=00FF41&background=1E1E2E&center=false&vCenter=true&multiline=false&repeat=true&width=680&height=360&lines=%24+ls+completed-projects%2F;%3E+ml-web-apps%2F+messenger-app%2F+ai-chatbot%2F;%24+cat+ml-web-apps%2FREADME.md;%3E+%F0%9F%A4%96+ML+Web+Apps+%E2%80%94+Streamlit+%2B+Python;%3E+Models%3A+SVM+%7C+K-Means+%7C+Decision+Tree;%3E+%F0%9F%9A%80+Live%3A+finalproject-bgk.streamlit.app;%3E+%F0%9F%94%97+Repo%3A+github.com%2FArunkumar19-20%2FUnsupervised;%24+cat+messenger-app%2FREADME.md;%3E+%F0%9F%92%AC+Real-Time+Messenger+%E2%80%94+Flutter+%2B+Supabase;%3E+Features%3A+Auth+%2B+Real-time+Message+Sync;%3E+%F0%9F%94%97+Repo%3A+github.com%2FArunkumar19-20%2Fmessenger-chatbot;%24+cat+ai-chatbot%2FREADME.md;%3E+%F0%9F%A7%A0+AI+Chatbot+%E2%80%94+Flutter+%2B+Flowise;%3E+Features%3A+API+Integration+%2B+Responsive+UI;%3E+%F0%9F%94%97+Repo%3A+github.com%2FArunkumar19-20%2Fchatbot-flutt;%24+echo+%24STATUS;%3E+%E2%9C%85+3+Projects+Shipped+%7C+More+Coming+Soon...;%24+_%E2%96%88" alt="Animated Terminal — Projects"/>
 
 </div>
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## 🚀 Completed Projects
+
+<div align="center">
+
+### 🤖 Machine Learning Web Apps
+> **Streamlit · Python · SVM · K-Means · Decision Tree**
+>
+> Interactive ML apps with live predictions — trained and deployed models directly in the browser.
+
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Visit-22d3ee?style=for-the-badge)](https://finalproject-bgk.streamlit.app)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Unsupervised-181717?style=for-the-badge&logo=github)](https://github.com/Arunkumar19-20/Unsupervised)
+
+---
+
+### 💬 Real-Time Messenger App
+> **Flutter · Supabase · Authentication · Real-time Sync**
+>
+> Full-featured chat app with user authentication and real-time message delivery using Supabase.
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-messenger--chatbot-181717?style=for-the-badge&logo=github)](https://github.com/Arunkumar19-20/messenger-chatbot)
+
+---
+
+### 🧠 AI Chatbot Application
+> **Flutter · Flowise · API Integration · Responsive UI**
+>
+> AI-powered conversational chatbot built with Flowise workflows and a clean Flutter frontend.
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-chatbot--flutt-181717?style=for-the-badge&logo=github)](https://github.com/Arunkumar19-20/chatbot-flutt)
 
 </div>
 
@@ -240,4 +273,3 @@
      Push to main — your animated profile is live!
 ════════════════════════════════════════════════════════════════════
 -->
-**
