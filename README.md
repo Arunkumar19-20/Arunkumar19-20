@@ -117,9 +117,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Arunkumar19-20&theme=onedark&column=-1&no-frame=true&no-bg=false&margin-w=10" alt="GitHub Trophies"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Arunkumar19-20&theme=tokyonight&column=7&margin-w=5" alt="GitHub Trophies" />
 </div>
 
 <!-- ANIMATED DIVIDER -->
@@ -131,9 +129,11 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arunkumar19-20/Arunkumar19-20/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arunkumar19-20/Arunkumar19-20/output/github-contribution-grid-snake.svg"/>
-    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/Arunkumar19-20/Arunkumar19-20/output/github-contribution-grid-snake.svg" width="100%"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
   </picture>
 </div>
+
+> ⚙️ **To show YOUR snake:** Set up the `snk` GitHub Action in your `Arunkumar19-20` repo (see setup notes at the bottom of this file). Until then, a demo snake is displayed above.
 
 <!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
