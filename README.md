@@ -117,37 +117,14 @@
 ## 💻 Terminal — whoami
 
 <div align="center">
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300"/>
 
-```bash
-┌─────────────────────────────────────────────┐
-│  ●  ●  ●     arun@dev ~ terminal            │
-├─────────────────────────────────────────────┤
-│                                             │
-│  $ whoami                                   │
-│  > Arun Kumar — Full Stack Developer        │
-│                                             │
-│  $ cat skills.txt                           │
-│  > Frontend  : HTML, CSS, JS, React         │
-│  > Backend   : Java, Spring Boot            │
-│  > ML        : Python, scikit-learn         │
-│  > Tools     : Git, VS Code, Postman        │
-│                                             │
-│  $ cat status.txt                           │
-│  > 🟢 Open to Collaborate                  │
-│  > 📍 Rathinam Tech, India                  │
-│  > 🎯 Building Full Stack Projects          │
-│                                             │
-│  $ echo $MOTTO                              │
-│  > "Build. Break. Learn. Repeat."           │
-│                                             │
-│  $ _                                        │
-└─────────────────────────────────────────────┘
-```
+<!-- Terminal window top bar -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1e1e2e&height=38&text=%E2%97%8F%20%E2%97%8F%20%E2%97%8F%20%20%20%20arun%40dev%20~%20terminal&fontColor=a6e3a1&fontSize=14&fontAlign=10&fontAlignY=55&desc=&animation=fadeIn" width="680"/>
+
+<!-- Animated typing terminal -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2000&pause=800&color=00FF41&background=1E1E2E&center=false&vCenter=true&multiline=false&repeat=true&width=680&height=320&lines=%24+whoami;%3E+Arun+Kumar+%E2%80%94+Full+Stack+Developer;%24+cat+skills.txt;%3E+Frontend+%3A+HTML+%7C+CSS+%7C+JavaScript+%7C+React;%3E+Backend++%3A+Java+%7C+Spring+Boot+%7C+Python;%3E+ML++++++%3A+scikit-learn+%7C+NumPy+%7C+Pandas;%3E+Tools+++%3A+Git+%7C+VS+Code+%7C+Postman;%24+cat+status.txt;%3E+%F0%9F%9F%A2+Open+to+Collaborate;%3E+%F0%9F%93%8D+Rathinam+Tech%2C+India;%3E+%F0%9F%8E%AF+Building+Full+Stack+Projects;%24+echo+%24MOTTO;%3E+%22Build.+Break.+Learn.+Repeat.%22;%24+_%E2%96%88" alt="Animated Terminal"/>
 
 </div>
-
-<br clear="right"/>
 
 <!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
