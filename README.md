@@ -99,26 +99,6 @@
 ---
 
 <!-- ══════════════════════════════════════
-     SKILL PROGRESS TABLE
-     ══════════════════════════════════════ -->
-
-## 📈 Skill Progress
-
-<div align="center">
-
-| Technology | Level | Progress |
-|:---:|:---:|:---:|
-| HTML & CSS | ⭐⭐⭐⭐⭐ | `██████████████░` 92% |
-| Git & GitHub | ⭐⭐⭐⭐⭐ | `███████████████` 95% |
-| JavaScript / React | ⭐⭐⭐⭐ | `████████████░░░` 80% |
-| Java / Spring Boot | ⭐⭐⭐⭐ | `███████████░░░░` 72% |
-| Python / ML | ⭐⭐⭐ | `████████░░░░░░░` 55% |
-
-</div>
-
----
-
-<!-- ══════════════════════════════════════
      GITHUB STATS
      ══════════════════════════════════════ -->
 
@@ -147,7 +127,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arunkumar19-20&theme=tokyonight&no-frame=true&margin-w=12&margin-h=12&column=7" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Arunkumar19-20&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" />
 </div>
 
 ---
